@@ -1,7 +1,7 @@
 # shabu
 Simple Shabu store manager web application. It's my Database course assignment built for local intranet usage only.
 
-This app looks pretty dumb but it consumed a lot of energy out of my head!
+This app looks pretty dumb but it drained a lot of energy out of my head!
 
 
 ### How I wrote this app (and my rant)
@@ -17,7 +17,7 @@ You need to be learning all the time to survive in this technological era. Web w
 If you are craving for the stack name, my solution stack is specifically **LAMP** (Linux, Apache, MySQL, PHP). But wait a minute, I develop this on Windows with Xampp installed. So I guess you should call my stack **WAMP** instead.
 
 ## Screenshots
-#### Application User Interface
+### Application User Interface
 ![UI](screenshots/2016-09-08_22-42-28.png)
 
 ![UI](screenshots/2016-09-08_22-44-54.png)
@@ -32,5 +32,5 @@ If you are craving for the stack name, my solution stack is specifically **LAMP*
 
 ![UI](screenshots/2016-09-08_23-01-02.png)
 
-#### Entity Relationship Diagram
+### Entity Relationship Diagram
 ![ERD](screenshots/ERD.png "Entity Relationship Diagram")
