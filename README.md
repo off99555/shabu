@@ -7,4 +7,4 @@ This was completely written in pure PHP, Javascript and HTML. There was no front
 #### Application User Interface
 ![UI](UI.png "User Interface")
 #### Entity Relationship Diagram
-![ERD](ERD.png "Entity Relationship Diagram")
+![ERD](screenshots/ERD.png "Entity Relationship Diagram")
